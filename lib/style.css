@@ -41,6 +41,7 @@ input[type='text'] {
 	border-radius: 5px;
 	border: 1px solid #2F4F4FB0;
 	height: 23px;
+	margin-bottom: 0.5em;
 }
 
 input[type='text']:hover {
